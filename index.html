@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OnTimesRoutes</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/slider.css" />
+    <link rel="stylesheet" href="css/card.css" />
+    <link rel="stylesheet" href="css/footer.css" />
+    <link rel="stylesheet" href="css/searchHome.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-brand">
+        <img src="Image/logo1.jpeg" class="logo" alt="web-logo" />
+        <span class="site-name">OnTimesRoutes</span>
+      </div>
+      <div class="navbar-links">
+        <a href="index.html">Home</a>
+        <a href="#search">Find Bus Timings</a>
+        <a href="#feature">Features</a>
+        <a href="#about">About</a>
+        <a href="#share">Share</a>
+      </div>
+
+      <button class="hamburger-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+    <div class="slider" id="home">
+      <img class="mySlides" src="Image/Image9.jpg" alt="" />
+      <img class="mySlides" src="Image/Image8.jpg" alt="" />
+      <img class="mySlides" src="Image/Image10.jpg" alt="" />
+
+      <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
+      <button class="next" onclick="changeSlide(1)">&#10095;</button>
+
+      <div class="description-overlay">
+        <h2>Welcome to OnTimeRoutes!</h2>
+        <p>
+          Here, you can easily search for your desired route timings and find
+          contact details for vehicle bookings. Use the search bar to enter your
+          destination and view the available buses.
+        </p>
+      </div>
+    </div>
+
+    <div class="datetime" id="datetime"></div>
+
+    <section class="destination-search-section" id="search">
+      <h2>Search for Your Destination</h2>
+      <p>
+        Enter your destination to view the available bus routes and timings.
+      </p>
+      <a href="HTML/bus-timetable.html" class="search-btn">Start Searching</a>
+    </section>
+
+    <div class="testimonial-container">
+      <div class="testimonial-content">
+        <!-- Left: Image Section -->
+        <div class="testimonial-image">
+          <img
+            src="Image/bus.jpg"
+            alt="Testimonial Background"
+            class="testimonial-bg-image"
+          />
+        </div>
+        <!-- Right: Text Section -->
+        <div class="testimonial-text">
+          <h2>Reliable and Real-Time Bus Information at Your Fingertips</h2>
+          <p>
+            Thousands of passengers trust OnTimeRoutes to provide real-time bus
+            schedules and route updates. With our easy-to-use platform, you’ll
+            never miss a bus again. Experience seamless travel by finding the
+            most accurate and up-to-date information for your daily commute.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Features Section -->
+    <section class="features-section" id="feature">
+      <h2 class="section-title">Why Choose OnTimeRoutes?</h2>
+      <div class="features-container">
+        <div class="feature-box">
+          <i class="fa fa-clock feature-icon"></i>
+          <h3>Real-Time Updates</h3>
+          <p>Track your bus in real time and never miss your ride.</p>
+          <!-- Button linking to the Bus Schedule page -->
+          <a href="HTML/bus-timetable.html" class="schedule-btn">Real Time</a>
+        </div>
+        <div class="feature-box">
+          <i class="fa fa-bus feature-icon"></i>
+          <h3>Comprehensive Bus Schedules</h3>
+          <p>Get the latest bus schedules for all routes, updated daily.</p>
+          <!-- Button linking to the Bus Schedule page -->
+          <a href="HTML/bus-timetable.html" class="schedule-btn"
+            >View Bus Schedule</a
+          >
+        </div>
+        <div class="feature-box">
+          <i class="fa fa-map-marker feature-icon"></i>
+          <h3>Find Routes Effortlessly</h3>
+          <p>Enter your destination and get all the available bus routes.</p>
+          <!-- Button linking to the Bus Schedule page -->
+          <a href="HTML/bus-timetable.html" class="schedule-btn">Find Routes</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="about-section" id="about">
+      <h2>About OnTimeRoutes</h2>
+      <div class="about-content">
+        <div class="about-text">
+          <p>
+            OnTimeRoutes is your go-to platform for finding accurate and
+            up-to-date bus timings. Designed to simplify travel, we provide an
+            easy-to-use interface that allows users to quickly search for bus
+            schedules and plan their journeys without any hassle.
+          </p>
+          <p>
+            Whether you're a daily commuter or an occasional traveler,
+            OnTimeRoutes ensures you have the information you need to stay on
+            schedule. Simply use our search feature to enter your destination
+            and view all available buses with their timings.
+          </p>
+          <p>
+            We are committed to providing a reliable and efficient service to
+            make your travel experience smooth and stress-free. Thank you for
+            choosing OnTimeRoutes—helping you stay on time, every time!
+          </p>
+        </div>
+        <div class="about-image">
+          <img src="Image/about-image2.webp" alt="About OnTimeRoutes" />
+        </div>
+      </div>
+    </section>
+
+    <!-- Social Sharing Section -->
+    <div class="social-sharing" id="share">
+      <h3>Share This Page</h3>
+      <div class="social-icons">
+        <!-- Facebook Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon facebook"
+          onclick="shareToSocial(event, 'https://www.facebook.com/sharer/sharer.php?u=')"
+        >
+          <i class="fab fa-facebook"></i> <span>Facebook</span>
+        </a>
+        <!-- Twitter Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon twitter"
+          onclick="shareToSocial(event, 'https://twitter.com/intent/tweet?text=Check%20this%20out!&url=')"
+        >
+          <i class="fab fa-twitter"></i> <span>Twitter</span>
+        </a>
+        <!-- LinkedIn Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon linkedin"
+          onclick="shareToSocial(event, 'https://www.linkedin.com/shareArticle?mini=true&url=')"
+        >
+          <i class="fab fa-linkedin"></i> <span>LinkedIn</span>
+        </a>
+        <!-- WhatsApp Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon whatsapp"
+          onclick="shareToSocial(event, 'https://api.whatsapp.com/send?text=Check%20this%20out!%20')"
+        >
+          <i class="fab fa-whatsapp"></i> <span>WhatsApp</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer" id="footer">
+      <p>&copy; 2024 OnTimeRoutes. All rights reserved.</p>
+      <div class="foot-head">A.I. ROBOTICS</div>
+      <div class="creator">
+        Project Members - Deveshwar, Suryansh, Ritika, Muskan, Purav
+      </div>
+    </footer>
+
+    <script src="java.js"></script>
+    <script>
+      function shareToSocial(event, baseUrl) {
+        event.preventDefault();
+        const pageUrl = encodeURIComponent(window.location.href);
+        const fullUrl = `${baseUrl}${pageUrl}`;
+        window.open(fullUrl, "_blank", "noopener,noreferrer");
+      }
+    </script>
+  </body>
+</html>

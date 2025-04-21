@@ -1,0 +1,1676 @@
+[
+    {
+      "srNo": "1.",
+      "source": "Mandi",
+      "destination": "Kullu",
+      "departureTime": "11:10 A.M"
+    },
+    {
+      "srNo": "2.",
+      "source": "Mandi",
+      "destination": "Manali",
+      "departureTime": "11:10 A.M"
+    },
+    {
+      "srNo": "3.",
+      "source": "Mandi",
+      "destination": "kotli",
+      "departureTime": "11:20 A.M"
+    },
+    {
+      "srNo": "4.",
+      "source": "Mandi",
+      "destination": "Janjehli",
+      "departureTime": "11:30 A.M"
+    },
+    {
+      "srNo": "5.",
+      "source": "Mandi",
+      "destination": "Janjehli",
+      "departureTime": "11:00A.M"
+    },
+    {
+      "srNo": "6.",
+      "source": "Mandi",
+      "destination": "Janjehli",
+      "departureTime": "05:30 A.M"
+    },
+    {
+      "srNo": "7.",
+      "source": "Mandi",
+      "destination": "Pathankot",
+      "departureTime": "11:35 A.M"
+    },
+    {
+      "srNo": "8.",
+      "source": "Mandi",
+      "destination": "Janjehli",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "9.",
+      "source": "Mandi",
+      "destination": "Lohardi",
+      "departureTime": "07:00 A.M"
+    },
+    {
+      "srNo": "10.",
+      "source": "Mandi",
+      "destination": "Kotli",
+      "departureTime": "08:00 A.M"
+    },
+    {
+      "srNo": "11.",
+      "source": "Mandi",
+      "destination": "Tungal",
+      "departureTime": "08:35 A.M"
+    },
+    {
+      "srNo": "12.",
+      "source": "Mandi",
+      "destination": "Manaru",
+      "departureTime": "03:15 P.M"
+    },
+    {
+      "srNo": "13.",
+      "source": "Mandi",
+      "destination": "Khun",
+      "departureTime": "07:45 A.M"
+    },
+    {
+      "srNo": "14.",
+      "source": "Mandi",
+      "destination": "Dharmpur",
+      "departureTime": "06:30 A.M"
+    },
+    {
+      "srNo": "15.",
+      "source": "Mandi",
+      "destination": "Chandigarh",
+      "departureTime": "11:30 A.M"
+    },
+    {
+      "srNo": "16.",
+      "source": "Mandi",
+      "destination": "Devidarh",
+      "departureTime": "11:45 A.M"
+    },
+    {
+      "srNo": "17.",
+      "source": "Mandi",
+      "destination": "Khun",
+      "departureTime": "10:25 A.M"
+    },
+    {
+      "srNo": "18.",
+      "source": "Mandi",
+      "destination": "Mandup",
+      "departureTime": "01:15 P.M"
+    },
+    {
+      "srNo": "19.",
+      "source": "Mandi",
+      "destination": "Kotli",
+      "departureTime": "09:25 A.M"
+    },
+    {
+      "srNo": "20.",
+      "source": "Mandi",
+      "destination": "Hamirpur",
+      "departureTime": "01:10 P.M"
+    },
+    {
+      "srNo": "21.",
+      "source": "Mandi",
+      "destination": "Shivabadar",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "22.",
+      "source": "Mandi",
+      "destination": "Kangra",
+      "departureTime": "01:20 P.M"
+    },
+    {
+      "srNo": "23.",
+      "source": "Mandi",
+      "destination": "Pandoh",
+      "departureTime": "10:55 A.M"
+    },
+    {
+      "srNo": "24.",
+      "source": "Mandi",
+      "destination": "Jahu",
+      "departureTime": "11:15 A.M"
+    },
+    {
+      "srNo": "25.",
+      "source": "Mandi",
+      "destination": "Hamirpur",
+      "departureTime": "11:15 A.M"
+    },
+    {
+      "srNo": "26.",
+      "source": "Mandi",
+      "destination": "Gagal",
+      "departureTime": "11:18 A.M"
+    },
+    {
+      "srNo": "27.",
+      "source": "Mandi",
+      "destination": "Baggi",
+      "departureTime": "11:18 A.M"
+    },
+    {
+      "srNo": "28.",
+      "source": "Mandi",
+      "destination": "Nerchowk",
+      "departureTime": "10:40 A.M"
+    },
+    {
+      "srNo": "29.",
+      "source": "Mandi",
+      "destination": "Karsog",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "30.",
+      "source": "Mandi",
+      "destination": "Hamirpur",
+      "departureTime": "12:15 P.M"
+    },
+    {
+      "srNo": "31.",
+      "source": "Mandi",
+      "destination": "Rewalsar",
+      "departureTime": "12:20 P.M"
+    },
+    {
+      "srNo": "32.",
+      "source": "Mandi",
+      "destination": "Shivabadar",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "33.",
+      "source": "Mandi",
+      "destination": "Gagal",
+      "departureTime": "12:20 P.M"
+    },
+    {
+      "srNo": "34.",
+      "source": "Mandi",
+      "destination": "Chailchowk",
+      "departureTime": "12:50 P.M"
+    },
+    {
+      "srNo": "35.",
+      "source": "Mandi",
+      "destination": "Katola",
+      "departureTime": "12:15 P.M"
+    },
+    {
+      "srNo": "36.",
+      "source": "Mandi",
+      "destination": "Durgapur",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "37.",
+      "source": "Mandi",
+      "destination": "Gohar",
+      "departureTime": "01:50 P.M"
+    },
+    {
+      "srNo": "38.",
+      "source": "Mandi",
+      "destination": "Pandoh",
+      "departureTime": "01:50 P.M"
+    },
+    {
+      "srNo": "39.",
+      "source": "Mandi",
+      "destination": "Manali",
+      "departureTime": "01:50 P.M"
+    },
+    {
+      "srNo": "40.",
+      "source": "Mandi",
+      "destination": "Dharmshala",
+      "departureTime": "01:50 P.M"
+    },
+    {
+      "srNo": "41.",
+      "source": "Mandi",
+      "destination": "Sujanpur",
+      "departureTime": "02:00 P.M"
+    },
+    {
+      "srNo": "42.",
+      "source": "Mandi",
+      "destination": "Rewalsar",
+      "departureTime": "02:00 P.M"
+    },
+    {
+      "srNo": "43.",
+      "source": "Mandi",
+      "destination": "Khun",
+      "departureTime": "03:10 P.M"
+    },
+    {
+      "srNo": "44.",
+      "source": "Mandi",
+      "destination": "Gohar",
+      "departureTime": "03:15 P.M"
+    },
+    {
+      "srNo": "45.",
+      "source": "Mandi",
+      "destination": "Manali",
+      "departureTime": "03:15 P.M"
+    },
+    {
+      "srNo": "46.",
+      "source": "Mandi",
+      "destination": "Bilaspur",
+      "departureTime": "03:30 P.M"
+    },
+    {
+      "srNo": "47.",
+      "source": "Mandi",
+      "destination": "Sarkaghat",
+      "departureTime": "03:20 P.M"
+    },
+    {
+      "srNo": "48.",
+      "source": "Mandi",
+      "destination": "Dawahan",
+      "departureTime": "03:30 P.M"
+    },
+    {
+      "srNo": "49.",
+      "source": "Mandi",
+      "destination": "Baijnath",
+      "departureTime": "03:40 P.M"
+    },
+    {
+      "srNo": "50.",
+      "source": "Mandi",
+      "destination": "Manali",
+      "departureTime": "03:20 P.M"
+    },
+    {
+      "srNo": "51.",
+      "source": "Mandi",
+      "destination": "Palampur",
+      "departureTime": "03:30 P.M"
+    },
+    {
+      "srNo": "52.",
+      "source": "Mandi",
+      "destination": "Chailchowk",
+      "departureTime": "04:00 P.M"
+    },
+    {
+      "srNo": "53.",
+      "source": "Mandi",
+      "destination": "Suhada(iit-Kamand)",
+      "departureTime": "02:00 P.M"
+    },
+    {
+      "srNo": "54.",
+      "source": "Mandi",
+      "destination": "Sundernagar",
+      "departureTime": "03:25 P.M"
+    },
+    {
+      "srNo": "55.",
+      "source": "Mandi",
+      "destination": "Padhar",
+      "departureTime": "04:25 P.M"
+    },
+    {
+      "srNo": "56.",
+      "source": "Mandi",
+      "destination": "Manjwad",
+      "departureTime": "04:30 P.M"
+    },
+    {
+      "srNo": "57.",
+      "source": "Mandi",
+      "destination": "Shivabadar",
+      "departureTime": "04:30 P.M"
+    },
+    {
+      "srNo": "58.",
+      "source": "Mandi",
+      "destination": "Kothigehri",
+      "departureTime": "04:40 P.M"
+    },
+    {
+      "srNo": "59.",
+      "source": "Mandi",
+      "destination": "Palampur",
+      "departureTime": "05:00 P.M"
+    },
+    {
+      "srNo": "60.",
+      "source": "Mandi",
+      "destination": "Pedi",
+      "departureTime": "05:10 P.M"
+    },
+    {
+      "srNo": "61.",
+      "source": "Mandi",
+      "destination": "Dhuadevi",
+      "departureTime": "05:00 P.M"
+    },
+    {
+      "srNo": "62.",
+      "source": "Mandi",
+      "destination": "Bathar",
+      "departureTime": "05:00 P.M"
+    },
+    {
+      "srNo": "63.",
+      "source": "Mandi",
+      "destination": "Kothigehri",
+      "departureTime": "09:35 A.M"
+    },
+    {
+      "srNo": "64.",
+      "source": "Mandi",
+      "destination": "Sundernagar",
+      "departureTime": "10:05 A.M"
+    },
+    {
+      "srNo": "65.",
+      "source": "Mandi",
+      "destination": "Sundernagar",
+      "departureTime": "01:50 P.M"
+    },
+    {
+      "srNo": "66.",
+      "source": "Mandi",
+      "destination": "Sundernagar",
+      "departureTime": "04:55 P.M"
+    },
+    {
+      "srNo": "67.",
+      "source": "Sundernagar",
+      "destination": "Nerchowk",
+      "departureTime": "11:45 A.M"
+    },
+    {
+      "srNo": "68.",
+      "source": "Sundernagar",
+      "destination": "Bilaspur",
+      "departureTime": "11:40 A.M"
+    },
+    {
+      "srNo": "69.",
+      "source": "Sundernagar",
+      "destination": "Ghagas",
+      "departureTime": "12:55 A.M"
+    },
+    {
+      "srNo": "70.",
+      "source": "Sundernagar",
+      "destination": "Bilaspur",
+      "departureTime": "12:55 A.M"
+    },
+    {
+      "srNo": "71.",
+      "source": "Sundernagar",
+      "destination": "Mandi Via Baggi",
+      "departureTime": "11:45 A.M"
+    },
+    {
+      "srNo": "72.",
+      "source": "Sundernagar",
+      "destination": "Mandi Via Nerchowk",
+      "departureTime": "11:45 A.M"
+    },
+    {
+      "srNo": "73.",
+      "source": "Sundernagar",
+      "destination": "Siyanji",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "74.",
+      "source": "Sundernagar",
+      "destination": "Leda",
+      "departureTime": "01:30 P.M"
+    },
+    {
+      "srNo": "75.",
+      "source": "Sundernagar",
+      "destination": "Halyatar",
+      "departureTime": "01:30 P.M"
+    },
+    {
+      "srNo": "76.",
+      "source": "Sundernagar",
+      "destination": "Ghagas",
+      "departureTime": "12:15 P.M"
+    },
+    {
+      "srNo": "77.",
+      "source": "Sundernagar",
+      "destination": "Bilaspur",
+      "departureTime": "12:00 P.M"
+    },
+    {
+      "srNo": "78.",
+      "source": "Sundernagar",
+      "destination": "Ghagas",
+      "departureTime": "11:45 A.M"
+    },
+    {
+      "srNo": "79.",
+      "source": "Sundernagar",
+      "destination": "Riwalsar",
+      "departureTime": "12:00 P.M"
+    },
+    {
+      "srNo": "80.",
+      "source": "Sundernagar",
+      "destination": "Luhnu",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "81.",
+      "source": "Sundernagar",
+      "destination": "Karsog",
+      "departureTime": "12:00 P.M"
+    },
+    {
+      "srNo": "82.",
+      "source": "Sundernagar",
+      "destination": "Luhnu",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "83.",
+      "source": "Sundernagar",
+      "destination": "Chaah ka dohra",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "84.",
+      "source": "Sundernagar",
+      "destination": "Chaah ka dohra",
+      "departureTime": "12:00 P.M"
+    },
+    {
+      "srNo": "85.",
+      "source": "Sundernagar",
+      "destination": "Chaah ka dohra",
+      "departureTime": "05:00 P.M"
+    },
+    {
+      "srNo": "86.",
+      "source": "Sundernagar",
+      "destination": "Murari Devi",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "87.",
+      "source": "Sundernagar",
+      "destination": "Murari Devi",
+      "departureTime": "05:00 P.M"
+    },
+    {
+      "srNo": "88.",
+      "source": "Sundernagar",
+      "destination": "Ledha",
+      "departureTime": "12:40 P.M"
+    },
+    {
+      "srNo": "89.",
+      "source": "Sundernagar",
+      "destination": "Bilaspur",
+      "departureTime": "12:35 P.M"
+    },
+    {
+      "srNo": "90.",
+      "source": "Sundernagar",
+      "destination": "Bilaspur",
+      "departureTime": "05:15 P.M"
+    },
+    {
+      "srNo": "91.",
+      "source": "Sundernagar",
+      "destination": "Seri Kothi",
+      "departureTime": "12:40 P.M"
+    },
+    {
+      "srNo": "92.",
+      "source": "Sundernagar",
+      "destination": "Tatapani",
+      "departureTime": "01:10 P.M"
+    },
+    {
+      "srNo": "94.",
+      "source": "Sundernagar",
+      "destination": "Shimla",
+      "departureTime": "12:35 P.M"
+    },
+    {
+      "srNo": "93.",
+      "source": "Sundernagar",
+      "destination": "Riwalsar",
+      "departureTime": "01:15 P.M"
+    },
+    {
+      "srNo": "95.",
+      "source": "Sundernagar",
+      "destination": "Dharli",
+      "departureTime": "01:15 P.M"
+    },
+    {
+      "srNo": "96.",
+      "source": "Sundernagar",
+      "destination": "Mandi",
+      "departureTime": "01:40 P.M"
+    },
+    {
+      "srNo": "97.",
+      "source": "Sundernagar",
+      "destination": "Chaah Ka dohra",
+      "departureTime": "02:40 P.M"
+    },
+    {
+      "srNo": "98.",
+      "source": "Sundernagar",
+      "destination": "Bilaspur",
+      "departureTime": "02:15 P.M"
+    },
+    {
+      "srNo": "99.",
+      "source": "Sundernagar",
+      "destination": "Daihar",
+      "departureTime": "02:30 P.M"
+    },
+    {
+      "srNo": "100.",
+      "source": "Sundernagar",
+      "destination": "Karsog",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "101.",
+      "source": "Sundernagar",
+      "destination": "Ghagas",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "102.",
+      "source": "Sundernagar",
+      "destination": "Pura Kothi",
+      "departureTime": "03:30 P.M"
+    },
+    {
+      "srNo": "103.",
+      "source": "Sundernagar",
+      "destination": "Ledha",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "104.",
+      "source": "Sundernagar",
+      "destination": "Riwalsar",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "105.",
+      "source": "Sundernagar",
+      "destination": "Chaah Ka dohra",
+      "departureTime": "03:45 P.M"
+    },
+    {
+      "srNo": "106.",
+      "source": "Sundernagar",
+      "destination": "Siyanji",
+      "departureTime": "04:30 P.M"
+    },
+    {
+      "srNo": "107.",
+      "source": "Sundernagar",
+      "destination": "Riwalsar",
+      "departureTime": "04:30 P.M"
+    },
+    {
+      "srNo": "108.",
+      "source": "Sundernagar",
+      "destination": "Brahmpukhar",
+      "departureTime": "03:50 P.M"
+    },
+    {
+      "srNo": "109.",
+      "source": "Sundernagar",
+      "destination": "SeriKothi",
+      "departureTime": "03:10 P.M"
+    },
+    {
+      "srNo": "110.",
+      "source": "Mandi",
+      "destination": "Rewalsar",
+      "departureTime": "01:10 P.M"
+    },
+    {
+      "srNo": "111.",
+      "source": "Mandi",
+      "destination": "Gohar",
+      "departureTime": "10:40 A.M"
+    },
+    {
+      "srNo": "112.",
+      "source": "Mandi",
+      "destination": "Katola",
+      "departureTime": "11:00 A.M"
+    },
+    {
+      "srNo": "113.",
+      "source": "Mandi",
+      "destination": "Manali",
+      "departureTime": "10:45 A.M"
+    },
+    {
+      "srNo": "114.",
+      "source": "Mandi",
+      "destination": "Sarkaghat",
+      "departureTime": "11:00 a.M"
+    },
+    {
+      "srNo": "115.",
+      "source": "Mandi",
+      "destination": "Pathankot",
+      "departureTime": "11:00 A.M"
+    },
+    {
+      "srNo": "116.",
+      "source": "Bilaspur",
+      "destination": "Chandigarh",
+      "departureTime": "05:20 A.M"
+    },
+    {
+      "srNo": "117.",
+      "source": "Bilaspur",
+      "destination": "Amritsar",
+      "departureTime": "05:40 A.M"
+    },
+    {
+      "srNo": "118.",
+      "source": "Bilaspur",
+      "destination": "Baga-Bilaspur",
+      "departureTime": "06:40 A.M"
+    },
+    {
+      "srNo": "119.",
+      "source": "Bilaspur",
+      "destination": "Ludhiana",
+      "departureTime": "06:40 A.M"
+    },
+    {
+      "srNo": "120.",
+      "source": "Bilaspur",
+      "destination": "Brahmpukhar",
+      "departureTime": "07:00 A.M"
+    },
+    {
+      "srNo": "121.",
+      "source": "Bilaspur",
+      "destination": "AIIMS",
+      "departureTime": "07:15 A.M"
+    },
+    {
+      "srNo": "122.",
+      "source": "Bilaspur",
+      "destination": "Jeori-Pattan",
+      "departureTime": "07:15 A.M"
+    },
+    {
+      "srNo": "123.",
+      "source": "Bilaspur",
+      "destination": "Bandla",
+      "departureTime": "07:45 A.M"
+    },
+    {
+      "srNo": "124.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "08:10 A.M"
+    },
+    {
+      "srNo": "125.",
+      "source": "Bilaspur",
+      "destination": "Gumarwin",
+      "departureTime": "08:10 A.M"
+    },
+    {
+      "srNo": "126.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "09:00 A.M"
+    },
+    {
+      "srNo": "127.",
+      "source": "Bilaspur",
+      "destination": "Tared",
+      "departureTime": "09:00 A.M"
+    },
+    {
+      "srNo": "128.",
+      "source": "Bilaspur",
+      "destination": "Luhnu Ghat",
+      "departureTime": "09:15 A.M"
+    },
+    {
+      "srNo": "129.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "09:40 A.M"
+    },
+    {
+      "srNo": "130.",
+      "source": "Bilaspur",
+      "destination": "Chandigarh",
+      "departureTime": "11:40 A.M"
+    },
+    {
+      "srNo": "131.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "12:20 P.M"
+    },
+    {
+      "srNo": "132.",
+      "source": "Bilaspur",
+      "destination": "Jaynagar",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "133.",
+      "source": "Bilaspur",
+      "destination": "Brahmpukhar",
+      "departureTime": "12:30 P.M"
+    },
+    {
+      "srNo": "134.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "01:20 P.M"
+    },
+    {
+      "srNo": "135.",
+      "source": "Bilaspur",
+      "destination": "Rishikesh-Bilaspur",
+      "departureTime": "01:40 P.M"
+    },
+    {
+      "srNo": "136.",
+      "source": "Bilaspur",
+      "destination": "Ghumarwin",
+      "departureTime": "01:42 P.M"
+    },
+    {
+      "srNo": "137.",
+      "source": "Bilaspur",
+      "destination": "Kasol-Bilaspur",
+      "departureTime": "02:00 P.M"
+    },
+    {
+      "srNo": "138.",
+      "source": "Bilaspur",
+      "destination": "Malokhar",
+      "departureTime": "02:00 P.M"
+    },
+    {
+      "srNo": "139.",
+      "source": "Bilaspur",
+      "destination": "Baga (Brahmpukhar)",
+      "departureTime": "02:10 P.M"
+    },
+    {
+      "srNo": "140.",
+      "source": "Bilaspur",
+      "destination": "Kuh Majhwar",
+      "departureTime": "02:20 P.M"
+    },
+    {
+      "srNo": "141.",
+      "source": "Bilaspur",
+      "destination": "Brahmpukhar-Bilaspur",
+      "departureTime": "02:45 P.M"
+    },
+    {
+      "srNo": "142.",
+      "source": "Bilaspur",
+      "destination": "Guru-Ka-Lahaur",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "143.",
+      "source": "Bilaspur",
+      "destination": "Sunna",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "144.",
+      "source": "Bilaspur",
+      "destination": "Laghat",
+      "departureTime": "03:00 P.M"
+    },
+    {
+      "srNo": "145.",
+      "source": "Bilaspur",
+      "destination": "Kasol",
+      "departureTime": "03:03 P.M"
+    },
+    {
+      "srNo": "146.",
+      "source": "Bilaspur",
+      "destination": "Jahu",
+      "departureTime": "04:15 P.M"
+    },
+    {
+      "srNo": "147.",
+      "source": "Bilaspur",
+      "destination": "Bandla-Bilaspur",
+      "departureTime": "04:20 P.M"
+    },
+    {
+      "srNo": "148.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "04:20 P.M"
+    },
+    {
+      "srNo": "149.",
+      "source": "Bilaspur",
+      "destination": "Bholi",
+      "departureTime": "04:20 P.M"
+    },
+    {
+      "srNo": "150.",
+      "source": "Bilaspur",
+      "destination": "Ghumarwin-Bilaspur",
+      "departureTime": "04:35 P.M"
+    },
+    {
+      "srNo": "151.",
+      "source": "Bilaspur",
+      "destination": "Kasauli",
+      "departureTime": "05:10 P.M"
+    },
+    {
+      "srNo": "152.",
+      "source": "Bilaspur",
+      "destination": "Jeori-Pattan",
+      "departureTime": "05:15 P.M"
+    },
+    {
+      "srNo": "153.",
+      "source": "Bilaspur",
+      "destination": "Rishikesh",
+      "departureTime": "05:20 P.M"
+    },
+    {
+      "srNo": "154.",
+      "source": "Bilaspur",
+      "destination": "Malothi",
+      "departureTime": "05:20 P.M"
+    },
+    {
+      "srNo": "155.",
+      "source": "Bilaspur",
+      "destination": "Smaila",
+      "departureTime": "05:20 P.M"
+    },
+    {
+      "srNo": "156.",
+      "source": "Bilaspur",
+      "destination": "Shri Naina Devi Ji",
+      "departureTime": "05:20 P.M"
+    },
+    {
+      "srNo": "157.",
+      "source": "Bilaspur",
+      "destination": "Brahmpukhar",
+      "departureTime": "05:30 P.M"
+    },
+    {
+      "srNo": "158.",
+      "source": "Bilaspur",
+      "destination": "Lohaghat",
+      "departureTime": "05:30 P.M"
+    },
+    {
+      "srNo": "159.",
+      "source": "Bilaspur",
+      "destination": "Dabur",
+      "departureTime": "05:30 P.M"
+    },
+    {
+      "srNo": "160.",
+      "source": "Bilaspur",
+      "destination": "Namhol",
+      "departureTime": "05:40 P.M"
+    },
+    {
+      "srNo": "161.",
+      "source": "Bilaspur",
+      "destination": "Ghattu",
+      "departureTime": "05:40 P.M"
+    },
+    {
+      "srNo": "162.",
+      "source": "Bilaspur",
+      "destination": "Bandla",
+      "departureTime": "06:15 P.M"
+    },
+    {
+      "srNo": "163.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "07:15 P.M"
+    },
+    {
+      "srNo": "164.",
+      "source": "Bilaspur",
+      "destination": "Ghattu",
+      "departureTime": "05:40 P.M"
+    },
+    {
+      "srNo": "165.",
+      "source": "Mandi",
+      "destination": "Khun",
+      "departureTime": "08:10 A.M"
+    },
+    {
+      "srNo": "166.",
+      "source": "Mandi",
+      "destination": "Thanogi via Jwalapur",
+      "departureTime": "11:30 AM"
+    },
+    {
+      "srNo": "167.",
+      "source": "Mandi",
+      "destination": "Shimla-Tulah via Jo Nagar",
+      "departureTime": "11:30 AM"
+    },
+    {
+      "srNo": "168.",
+      "source": "Mandi",
+      "destination": "Naina Devi",
+      "departureTime": "11:40 AM"
+    },
+    {
+      "srNo": "169.",
+      "source": "Mandi",
+      "destination": "Sundernagar",
+      "departureTime": "11:50 AM"
+    },
+    {
+      "srNo": "170.",
+      "source": "Mandi",
+      "destination": "Durgapur",
+      "departureTime": "12:00 PM"
+    },
+    {
+      "srNo": "171.",
+      "source": "Mandi",
+      "destination": "Chuni via Chailchowk",
+      "departureTime": "12:20 PM"
+    },
+    {
+      "srNo": "172.",
+      "source": "Mandi",
+      "destination": "Balh Tikkar-Via Tryambli",
+      "departureTime": "12:20 PM"
+    },
+    {
+      "srNo": "173.",
+      "source": "Mandi",
+      "destination": "Kaihanwal",
+      "departureTime": "12:30 PM"
+    },
+    {
+      "srNo": "174.",
+      "source": "Mandi",
+      "destination": "Sanghol",
+      "departureTime": "12:30 PM"
+    },
+    {
+      "srNo": "175.",
+      "source": "Mandi",
+      "destination": "Kotli Via Nathog",
+      "departureTime": "12:30 PM"
+    },
+    {
+      "srNo": "176.",
+      "source": "Mandi",
+      "destination": "Rakhoon-Majwad",
+      "departureTime": "12:30 PM"
+    },
+    {
+      "srNo": "177.",
+      "source": "Mandi",
+      "destination": "Nerchowk",
+      "departureTime": "12:40 PM"
+    },
+    {
+      "srNo": "178.",
+      "source": "Mandi",
+      "destination": "Gadagusaini",
+      "departureTime": "11:30 PM"
+    },
+    {
+      "srNo": "179.",
+      "source": "Mandi",
+      "destination": "Lot-Jyog",
+      "departureTime": "12:45 PM"
+    },
+    {
+      "srNo": "180.",
+      "source": "Mandi",
+      "destination": "Kandhalu",
+      "departureTime": "01:00 PM"
+    },
+    {
+      "srNo": "181.",
+      "source": "Mandi",
+      "destination": "Sokroha",
+      "departureTime": "01:00 PM"
+    },
+    {
+      "srNo": "182.",
+      "source": "Dullah",
+      "destination": "Mandi - Maahan",
+      "departureTime": "01:00 PM"
+    },
+    {
+      "srNo": "183.",
+      "source": "Mandi",
+      "destination": "Tulah-Mandi-Shimla",
+      "departureTime": "01:10 PM"
+    },
+    {
+      "srNo": "184.",
+      "source": "Mandi",
+      "destination": "Sudhaar",
+      "departureTime": "01:20 PM"
+    },
+    {
+      "srNo": "185.",
+      "source": "Mandi",
+      "destination": "Sandyana-Dhandal",
+      "departureTime": "01:25 PM"
+    },
+    {
+      "srNo": "186.",
+      "source": "Mandi",
+      "destination": "Dudar-Majwad",
+      "departureTime": "01:30 PM"
+    },
+    {
+      "srNo": "187.",
+      "source": "Mandi",
+      "destination": "Dhanyari",
+      "departureTime": "01:30 PM"
+    },
+    {
+      "srNo": "188.",
+      "source": "Mandi",
+      "destination": "Batahan via Kothigehri",
+      "departureTime": "01:30 PM"
+    },
+    {
+      "srNo": "189.",
+      "source": "Mandi",
+      "destination": "Bathar via gokhada",
+      "departureTime": "01:30 PM"
+    },
+    {
+      "srNo": "190.",
+      "source": "Mandi",
+      "destination": "Kufri",
+      "departureTime": "01:30 PM"
+    },
+    {
+      "srNo": "191.",
+      "source": "Mandi",
+      "destination": "Batahan via Pataron",
+      "departureTime": "01:30 PM"
+    },
+    {
+      "srNo": "192.",
+      "source": "Mandi",
+      "destination": "Kalothar",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "193.",
+      "source": "Mandi",
+      "destination": "Deedar-Thalaut Chalaut",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "194.",
+      "source": "Mandi",
+      "destination": "Padhar Joginder Nagar",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "195.",
+      "source": "Mandi",
+      "destination": "Pallahropee",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "196.",
+      "source": "Mandi",
+      "destination": "Sandyana",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "197.",
+      "source": "Mandi",
+      "destination": "Padhar-Barot",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "198.",
+      "source": "Mandi",
+      "destination": "Janjehli",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "199.",
+      "source": "Mandi",
+      "destination": "Veer laag Saeegal",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "200.",
+      "source": "Mandi",
+      "destination": "Dhandaal-sain",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "201.",
+      "source": "Mandi",
+      "destination": "Kaihanwal",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "202.",
+      "source": "Mandi",
+      "destination": "Saravaahan-Bataahar",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "203.",
+      "source": "Mandi",
+      "destination": "Pedi-Nerchowk",
+      "departureTime": "02:00 PM"
+    },
+    {
+      "srNo": "204.",
+      "source": "Mandi",
+      "destination": "Riyagdi Via Navalaya",
+      "departureTime": "02:30 PM"
+    },
+    {
+      "srNo": "205.",
+      "source": "Mandi",
+      "destination": "Pandoh",
+      "departureTime": "02:20 PM"
+    },
+    {
+      "srNo": "206.",
+      "source": "Mandi",
+      "destination": "Parvada",
+      "departureTime": "02:30 PM"
+    },
+    {
+      "srNo": "207.",
+      "source": "Mandi",
+      "destination": "Ropra",
+      "departureTime": "02:30 PM"
+    },
+    {
+      "srNo": "208.",
+      "source": "Mandi",
+      "destination": "Kotli-Jogindernagar",
+      "departureTime": "02:40 PM"
+    },
+    {
+      "srNo": "209.",
+      "source": "Mandi",
+      "destination": "Bagsyaad-Majhol",
+      "departureTime": "02:40 PM"
+    },
+    {
+      "srNo": "210.",
+      "source": "Mandi",
+      "destination": "Bthari-Arang",
+      "departureTime": "02:45 PM"
+    },
+    {
+      "srNo": "211.",
+      "source": "Mandi",
+      "destination": "Sakroha",
+      "departureTime": "02:45 PM"
+    },
+    {
+      "srNo": "212.",
+      "source": "Mandi",
+      "destination": "Tung",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "213.",
+      "source": "Mandi",
+      "destination": "Padhar",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "214.",
+      "source": "Mandi",
+      "destination": "Tryambli-Balh Tikkar",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "215.",
+      "source": "Mandi",
+      "destination": "Veerlag-Kotli",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "216.",
+      "source": "Mandi",
+      "destination": "Shivabadar",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "217.",
+      "source": "Mandi",
+      "destination": "Gokhada-Bathan",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "218.",
+      "source": "Mandi",
+      "destination": "Vnayat-Pataron",
+      "departureTime": "03:00 PM"
+    },
+    {
+      "srNo": "219.",
+      "source": "Mandi",
+      "destination": "Kufri",
+      "departureTime": "03:15 PM"
+    },
+    {
+      "srNo": "220.",
+      "source": "Mandi",
+      "destination": "Kashimalidhar",
+      "departureTime": "03:15 PM"
+    },
+    {
+      "srNo": "221.",
+      "source": "Mandi",
+      "destination": "Gohar vasee",
+      "departureTime": "03:25 PM"
+    },
+    {
+      "srNo": "222.",
+      "source": "Mandi",
+      "destination": "Dolhra-Balh",
+      "departureTime": "03:30 PM"
+    },
+    {
+      "srNo": "223.",
+      "source": "Mandi",
+      "destination": "Nanava-Patron",
+      "departureTime": "03:15 PM"
+    },
+    {
+      "srNo": "224.",
+      "source": "Mandi",
+      "destination": "Shimla-Mandi-Janjehli",
+      "departureTime": "03:30 PM"
+    },
+    {
+      "srNo": "225.",
+      "source": "Mandi",
+      "destination": "Baladvaada",
+      "departureTime": "03:30 PM"
+    },
+    {
+      "srNo": "226.",
+      "source": "Mandi",
+      "destination": "Keepad-Manjwad",
+      "departureTime": "03:30 PM"
+    },
+    {
+      "srNo": "227.",
+      "source": "Mandi",
+      "destination": "Chukku Khajri",
+      "departureTime": "03:45 PM"
+    },
+    {
+      "srNo": "228.",
+      "source": "Mandi",
+      "destination": "Sandyana-kot",
+      "departureTime": "03:30 PM"
+    },
+    {
+      "srNo": "229.",
+      "source": "Mandi",
+      "destination": "Manjwad-Rakhoon",
+      "departureTime": "04:00 PM"
+    },
+    {
+      "srNo": "230.",
+      "source": "Mandi",
+      "destination": "Saeegaloo-Bataahan",
+      "departureTime": "03:45 PM"
+    },
+    {
+      "srNo": "231.",
+      "source": "Mandi",
+      "destination": "Kehnwal",
+      "departureTime": "04:00 PM"
+    },
+    {
+      "srNo": "232.",
+      "source": "Mandi",
+      "destination": "Bandhi-Kanda",
+      "departureTime": "04:00 PM"
+    },
+    {
+      "srNo": "233.",
+      "source": "Mandi",
+      "destination": "Pannjaee",
+      "departureTime": "04:00 PM"
+    },
+    {
+      "srNo": "234.",
+      "source": "Mandi",
+      "destination": "Palampur",
+      "departureTime": "04:10 PM"
+    },
+    {
+      "srNo": "235.",
+      "source": "Mandi",
+      "destination": "Ropadoo",
+      "departureTime": "04:30 PM"
+    },
+    {
+      "srNo": "236.",
+      "source": "Mandi",
+      "destination": "Pandoh-Chailchowk",
+      "departureTime": "04:30 PM"
+    },
+    {
+      "srNo": "237.",
+      "source": "Mandi",
+      "destination": "Dalvani",
+      "departureTime": "04:35 PM"
+    },
+    {
+      "srNo": "238.",
+      "source": "Mandi",
+      "destination": "Sakroha",
+      "departureTime": "04:35 PM"
+    },
+    {
+      "srNo": "239.",
+      "source": "Mandi",
+      "destination": "Doosara-Khabu",
+      "departureTime": "04:50 PM"
+    },
+    {
+      "srNo": "240.",
+      "source": "Mandi",
+      "destination": "Samrraahan",
+      "departureTime": "04:50 PM"
+    },
+    {
+      "srNo": "241.",
+      "source": "Mandi",
+      "destination": "Durgapur",
+      "departureTime": "04:50 PM"
+    },
+    {
+      "srNo": "242.",
+      "source": "Mandi",
+      "destination": "Baaghi-Suhada",
+      "departureTime": "05:00 PM"
+    },
+    {
+      "srNo": "243.",
+      "source": "Mandi",
+      "destination": "Laag Nalhog",
+      "departureTime": "05:00 PM"
+    },
+    {
+      "srNo": "244.",
+      "source": "Mandi",
+      "destination": "Dhuadevi-Lazarvaridhar",
+      "departureTime": "05:00 PM"
+    },
+    {
+      "srNo": "245.",
+      "source": "Mandi",
+      "destination": "Kotli-kot",
+      "departureTime": "05:00 PM"
+    },
+    {
+      "srNo": "246.",
+      "source": "Mandi",
+      "destination": "Dudar",
+      "departureTime": "05:05 PM"
+    },
+    {
+      "srNo": "247.",
+      "source": "Mandi",
+      "destination": "Bhulaah",
+      "departureTime": "05:05 PM"
+    },
+    {
+      "srNo": "248.",
+      "source": "Mandi",
+      "destination": "Kileeg-bad",
+      "departureTime": "05:15 PM"
+    },
+    {
+      "srNo": "249.",
+      "source": "Mandi",
+      "destination": "Pandoh",
+      "departureTime": "05:15 PM"
+    },
+    {
+      "srNo": "250.",
+      "source": "Mandi",
+      "destination": "Kehnwal",
+      "departureTime": "05:15 PM"
+    },
+    {
+      "srNo": "251.",
+      "source": "Mandi",
+      "destination": "Rewalsar",
+      "departureTime": "05:15 PM"
+    },
+    {
+      "srNo": "252.",
+      "source": "Mandi",
+      "destination": "Drang-Plahropi",
+      "departureTime": "05:15 PM"
+    },
+    {
+      "srNo": "253.",
+      "source": "Mandi",
+      "destination": "Kamand",
+      "departureTime": "05:15 PM"
+    },
+    {
+      "srNo": "254.",
+      "source": "Mandi",
+      "destination": "Gagal-Gohar-Siyanj",
+      "departureTime": "05:25 PM"
+    },
+    {
+      "srNo": "255.",
+      "source": "Mandi",
+      "destination": "Thatta",
+      "departureTime": "05:25 PM"
+    },
+    {
+      "srNo": "256.",
+      "source": "Mandi",
+      "destination": "Nasloh-kuffardhar",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "257.",
+      "source": "Mandi",
+      "destination": "Skor",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "258.",
+      "source": "Mandi",
+      "destination": "Kothigehri",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "259.",
+      "source": "Mandi",
+      "destination": "Kalothar",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "260.",
+      "source": "Mandi",
+      "destination": "Gokhada-Bathar",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "261.",
+      "source": "Mandi",
+      "destination": "Nanava-Durgapur",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "262.",
+      "source": "Mandi",
+      "destination": "Vnayat-Pataron",
+      "departureTime": "05:50 PM"
+    },
+    {
+      "srNo": "263.",
+      "source": "Mandi",
+      "destination": "Sadala-Basadar",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "264.",
+      "source": "Mandi",
+      "destination": "Tryambli-Pali",
+      "departureTime": "05:30 PM"
+    },
+    {
+      "srNo": "265.",
+      "source": "Mandi",
+      "destination": "Veerlag-Kotli",
+      "departureTime": "05:40 PM"
+    },
+    {
+      "srNo": "266.",
+      "source": "Mandi",
+      "destination": "Sandyana-kot",
+      "departureTime": "06:00 PM"
+    },
+    {
+      "srNo": "267.",
+      "source": "Mandi",
+      "destination": "Keepad",
+      "departureTime": "06:00 PM"
+    },
+    {
+      "srNo": "268.",
+      "source": "Mandi",
+      "destination": "Rakhoon-Chailchowk",
+      "departureTime": "06:15 PM"
+    },
+    {
+      "srNo": "269.",
+      "source": "Mandi",
+      "destination": "Kehnwal",
+      "departureTime": "06:15 PM"
+    },
+    {
+      "srNo": "270.",
+      "source": "Mandi",
+      "destination": "Pedi-Nerchowk",
+      "departureTime": "04:00 PM"
+    },
+    {
+      "srNo": "271.",
+      "source": "Mandi",
+      "destination": "Durgapur-Sarkaghat",
+      "departureTime": "04:00 PM"
+    },
+    {
+      "srNo": "272.",
+      "source": "Mandi",
+      "destination": "Sandyana",
+      "departureTime": "05:25 PM"
+    },
+    {
+      "srNo": "273.",
+      "source": "Mandi",
+      "destination": "Nela",
+      "departureTime": "01:15 P.M"
+    },
+    {
+      "srNo": "274.",
+      "source": "Mandi",
+      "destination": "Nela",
+      "departureTime": "01:15 P.M"
+    },
+    {
+      "srNo": "275.",
+      "source": "Sundernagar",
+      "destination": "Karsog",
+      "departureTime": "12:40 P.M"
+    },
+    {
+      "srNo": "276.",
+      "source": "Bilaspur",
+      "destination": "Chandpur",
+      "departureTime": "04:25 P.M"
+    },
+    {
+      "srNo": "277.",
+      "source": "Bilaspur",
+      "destination": "AIIMS-Bilaspur",
+      "departureTime": "04:30 P.M"
+    },
+    {
+      "srNo": "278.",
+      "source": "Mandi",
+      "destination": "Drang-Padhar",
+      "departureTime": "05:40 PM"
+    },
+    {
+      "srNo": "279.",
+      "source": "Mandi",
+      "destination": "Saravaahan-Bataahar",
+      "departureTime": "05:40 PM"
+    }
+  ]

@@ -1,0 +1,59 @@
+/* Destination Search Section Styles */
+.destination-search-section {
+    background-color: #f4f4f4; /* Light background for contrast */
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .destination-search-section h2 {
+    font-size: 2rem;
+    color: #2c3e50; /* Darker text for heading */
+    margin-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .destination-search-section p {
+    font-size: 1rem;
+    color: #7f8c8d; /* Subtle gray for text */
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .destination-search-section .search-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+    background-color: #27ae60; /* Green theme color */
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .destination-search-section .search-btn:hover {
+    background-color: #219150; /* Slightly darker green for hover */
+    transform: scale(1.05); /* Subtle hover effect */
+  }
+  
+  @media (max-width: 768px) {
+    .destination-search-section h2 {
+      font-size: 1.5rem;
+    }
+  
+    .destination-search-section p {
+      font-size: 0.9rem;
+    }
+  
+    .destination-search-section .search-btn {
+      padding: 10px 20px;
+      font-size: 0.9rem;
+    }
+  }
+  

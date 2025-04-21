@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OnTimesRoutes</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/card.css" />
+    <link rel="stylesheet" href="../css/footer.css" />
+    <link rel="stylesheet" href="../css/Table.css" />
+    <link rel="stylesheet" href="../css/howToUse.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-brand">
+        <img src="../Image/logo1.jpeg" class="logo" alt="web-logo" />
+        <span class="site-name">OnTimesRoutes</span>
+      </div>
+      <div class="navbar-links">
+        <a href="../index.html">Home</a>
+        <a href="#searchBox">Find Bus Timings</a>
+        <a href="#share">Share</a>
+      </div>
+
+      <button class="hamburger-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+
+    <section class="search-section">
+      <div class="controls">
+        <select id="sourceFilter">
+          <option value="">All Sources</option>
+          <option value="Mandi">Mandi</option>
+          <option value="Sundernagar">Sundernagar</option>
+          <option value="Bilaspur">Bilaspur</option>
+          <!-- Add more sources as needed -->
+        </select>
+        <input type="text" id="searchBox" placeholder="Search by destination" />
+        <div id="suggestionBox" class="suggestion-box"></div>
+        <button id="searchButton">Search</button>
+        <button id="resetButton">Reset</button>
+      </div>
+    </section>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Sr. No.</th>
+          <th>Source</th>
+          <th>Destination</th>
+          <th>Departure Time</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+        <!-- Rows will be dynamically inserted here -->
+      </tbody>
+    </table>
+
+    <div class="pagination">
+      <button id="prevButton" disabled>Previous</button>
+      <input type="number" id="pageInput" min="1" value="1" />
+      <button id="nextButton">Next</button>
+    </div>
+
+    <section class="how-to-use">
+      <h2>How to Use the Search Feature</h2>
+      <div class="how-to-content">
+        <div class="how-to-text">
+          <p>Follow these steps to find bus timings quickly:</p>
+          <ul>
+            <li>📍 Select the <strong>Source</strong> from the dropdown.</li>
+            <li>🔍 Type the <strong>Destination</strong> in the search box.</li>
+            <li>✨ Get <strong>suggestions</strong> as you type.</li>
+            <li>🚌 Click <strong>Search</strong> to see available buses.</li>
+            <li>🔄 Click <strong>Reset</strong> to clear the selection.</li>
+          </ul>
+        </div>
+        <div class="how-to-image">
+          <img src="../Image/wtf.gif" alt="How to use search feature" />
+        </div>
+      </div>
+    </section>
+
+    <div class="social-sharing" id="share">
+      <h3>Share This Page</h3>
+      <div class="social-icons">
+        <!-- Facebook Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon facebook"
+          onclick="shareToSocial(event, 'https://www.facebook.com/sharer/sharer.php?u=')"
+        >
+          <i class="fab fa-facebook"></i> <span>Facebook</span>
+        </a>
+        <!-- Twitter Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon twitter"
+          onclick="shareToSocial(event, 'https://twitter.com/intent/tweet?text=Check%20this%20out!&url=')"
+        >
+          <i class="fab fa-twitter"></i> <span>Twitter</span>
+        </a>
+        <!-- LinkedIn Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon linkedin"
+          onclick="shareToSocial(event, 'https://www.linkedin.com/shareArticle?mini=true&url=')"
+        >
+          <i class="fab fa-linkedin"></i> <span>LinkedIn</span>
+        </a>
+        <!-- WhatsApp Share -->
+        <a
+          href="#"
+          target="_blank"
+          class="social-icon whatsapp"
+          onclick="shareToSocial(event, 'https://api.whatsapp.com/send?text=Check%20this%20out!%20')"
+        >
+          <i class="fab fa-whatsapp"></i> <span>WhatsApp</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer" id="footer">
+      <p>&copy; 2024 OnTimeRoutes. All rights reserved.</p>
+      <div class="foot-head">A.I. ROBOTICS</div>
+      <div class="creator">
+        Project Members - Deveshwar, Suryansh, Ritika, Muskan, Purav
+      </div>
+    </footer>
+
+    <script src="../java/table.js"></script>
+    <script>
+      function shareToSocial(event, baseUrl) {
+        event.preventDefault();
+        const pageUrl = encodeURIComponent(window.location.href);
+        const fullUrl = `${baseUrl}${pageUrl}`;
+        window.open(fullUrl, "_blank", "noopener,noreferrer");
+      }
+    </script>
+  </body>
+</html>

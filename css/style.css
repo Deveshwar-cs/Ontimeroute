@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: #004d40;
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: relative;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 0.5rem;
+    border-radius: 50%;
+}
+
+.site-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar-links{
+    display: flex;
+    gap: 1rem;
+}
+
+.navbar-links a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.navbar-links a:hover{
+    cursor: pointer;
+    color: #26a69a;
+}
+
+.hamburger-menu {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .navbar-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 10px;
+        background-color: #004d40;
+        padding: 1rem;
+        border-radius: 8px;
+    }
+    .navbar-links.show {
+        display: flex;
+    }
+    .hamburger-menu {
+        display: flex;
+    }
+    .hamburger-menu span{
+        display: block;
+        height: 3px;
+        width: 25px;
+        background-color: #fff;
+        transition: transform 0.3 ease, background-color 0.3s ease;
+    }
+    .hamburger-menu:hover span{
+        background-color: #26a69a;
+    }
+    .hamburger-menu.active span:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+    .hamburger-menu.active span:nth-child(2) {
+        opacity: 0;
+    }
+    .hamburger-menu.active span:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+}
+
+
+/* Date and time */
+.datetime {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 20px 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.datetime h3{
+    font-size: 1.3em;
+}
+
+.datetime p {
+    font-size: 1em;
+    color: #333;
+}
