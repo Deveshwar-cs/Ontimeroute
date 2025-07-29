@@ -154,8 +154,6 @@ tbody tr:hover {
 /* Responsive Table Styling */
 @media (max-width: 768px) {
   table {
-    /* overflow-x: auto;
-      white-space: nowrap; */
     border: 0;
   }
 
